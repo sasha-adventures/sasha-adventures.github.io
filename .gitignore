@@ -6,3 +6,5 @@
 test/reports/*
 /tmp/
 vendor
+.sass-cache
+.jekyll-cache
