@@ -3,6 +3,7 @@
 source 'https://rubygems.org'
 
 gem 'bundler'
+gem 'github-pages'
 gem 'jekyll'
 gem 'rubocop'
 gem 'ruby-lsp'
