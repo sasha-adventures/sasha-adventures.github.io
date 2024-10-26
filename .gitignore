@@ -8,3 +8,4 @@ test/reports/*
 vendor
 .sass-cache
 .jekyll-cache
+_site
